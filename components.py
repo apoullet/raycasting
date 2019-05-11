@@ -46,6 +46,9 @@ class Ray:
         self.intersects = []
 
     def cast(self, grid, cell_size):
+        """
+        Raycasting algorithm found online at 'https://lodev.org/cgtutor/raycasting.html'
+        """
         current_pos = list(self.start_pos)
         self.intersects.clear()
 

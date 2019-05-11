@@ -63,10 +63,10 @@ while not kill_switch:
         for cell in wall["cells"]:
             grid[cell["row"]][cell["column"]].show(display, palette['green'])
 
-    player.show(display, palette['white'])
-
     for ray in player.rays:
         ray.show(display, palette['white'])
+
+    player.show(display, palette['white'])
 
     pygame.display.update()
 

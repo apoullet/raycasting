@@ -1,0 +1,96 @@
+{
+	"walls": [
+		{
+			"cells": [
+				{
+					"column": 15,
+					"row": 3
+				},
+				{
+					"column": 15,
+					"row": 4
+				},
+				{
+					"column": 15,
+					"row": 5
+				},
+				{
+					"column": 15,
+					"row": 6
+				},
+				{
+					"column": 15,
+					"row": 7
+				}
+			]
+		},
+		{
+			"cells": [
+				{
+					"column": 15,
+					"row": 7
+				},
+				{
+					"column": 14,
+					"row": 7
+				},
+				{
+					"column": 13,
+					"row": 7
+				}
+			]
+		},
+		{
+			"cells": [
+				{
+					"column": 13,
+					"row": 8
+				},
+				{
+					"column": 12,
+					"row": 9
+				},
+				{
+					"column": 11,
+					"row": 10
+				},
+				{
+					"column": 10,
+					"row": 11
+				}
+			]
+		},
+		{
+			"cells": [
+				{
+					"column": 10,
+					"row": 11
+				},
+				{
+					"column": 9,
+					"row": 10
+				},
+				{
+					"column": 8,
+					"row": 9
+				}
+			]
+		},
+		{
+			"cells": [
+				{
+					"column": 6,
+					"row": 6
+				},
+				{
+					"column": 5,
+					"row": 7
+				},
+				{
+					"column": 4,
+					"row": 8
+				}
+			]
+		}
+	]
+}
